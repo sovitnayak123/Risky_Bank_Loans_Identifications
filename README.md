@@ -53,7 +53,7 @@ The best-performing model in this project was the Random Forest classifier, whic
 1. Clone the repository:
 
    \`\`\`bash
-   git clone https://github.com/yourusername/identifying-risky-loans.git
+   git clone https://github.com/sovitnayak123/identifying-risky-loans.git
    cd identifying-risky-loans
    \`\`\`
 
